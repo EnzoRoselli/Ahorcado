@@ -1,5 +1,7 @@
 # Ahorcado
 
+Programa en Java de 2 hilos jugando por turnos al ahorcado.
+
 -Differencia entre Runnable y Thread
 
 Las principales diferencias entre la clase Thread e implementar la interfaz Runnsable son:
